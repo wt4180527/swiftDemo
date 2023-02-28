@@ -1,0 +1,6 @@
+source 'https://mirrors.tuna.tsinghua.edu.cn/git/CocoaPods/Specs.git'
+platform :ios, '8.0'
+target :swiftDemo do
+  pod 'OCMock', '~> 2.0.1'
+end
+
